@@ -1,0 +1,38 @@
+===========================
+Sens-Gar-118x - Version 1.6
+===========================
+
+Name	Beschreibung
+------------------------------------------
+U1      ATtiny24a
+C11     Ceramic Capacitor 100nF
+C21     Ceramic Capacitor 100nF
+C31     Electrolytic Capacitor 1uF
+Q1      Basic FET N-Channel IRL2203N  / IRLZ34N
+R11     Resistor 150k
+R12     Resistor 10k
+R13     Resistor 4.7k
+R21     Resistor 150k
+R22     Resistor 10k
+R23     Resistor 4.7k
+R41     Resistor 10k
+
+Optional - Spannungsversorgung für 4-9V:
+----------------------------------------
+LTO     Voltage Regulator MCP1702
+C1      Ceramic Capacitor 1uF
+C2      Ceramic Capacitor 1uF
+
+Zubehör
+-------
+1 x     3-fach Print-Anschlußklemmen (5.0 mm)
+1 x     14-Pins Sockel für ATtiny24a
+2 x     2-fach Pinheader (J1, J2)
+1 x     3-fach Pinheader (J3)
+1 x     5-fach Pinheader oder 5-fach JST-XH (PA0... PA4-Portanschlüsse)
+        oder
+        6-fach Pinheader oder 6-fach JST-XH (GND PA0... PA4-Portanschlüsse)
+3 x     Jumper für Pinheader
+1 x     (optional nur für Debugging - 5-fach Pinheader)
+
+4 x     Befestigungsschrauben 2,2 x 6,5 oder 2,2 x 9,9 (optional)

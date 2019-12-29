@@ -1,0 +1,60 @@
+===========================
+HB-UNI-Sens-X - Version 2.2
+===========================
+
+Name	Beschreibung
+------------------------------------------
+U1      Arduino Pro Mini V3 - 3.3V
+CC1101  CC1101 Module
+S1      Pushbutton - Mikroschalter 6x6x6 mm - 2.5 
+C3      Electrolytic Capacitor 1uF
+C5      Ceramic Capacitor 1uF
+R4      Resistor 10k
+
+Optional - LED Anzeige
+----------------------
+D1      LED - 3mm
+R1      Resistor 1.5k
+1 x     2-fach Pinheader (J5)
+
+Optional - Spannungsüberwachung
+-------------------------------
+C4      Ceramic Capacitor 100nF
+R2      Resistor 1M
+R3      Resistor 100k
+
+Optional - I2C Pullup
+---------------------
+R5      Resistor 10k
+R6      Resistor 10k
+1 x     2-fach Pinheader (J4)
+
+Optional - 1-Wire
+-----------------
+R8      Resistor 4.7k
+
+Optional - GND-Schaltung
+------------------------
+Q1      Basic FET N-Channel IRL2203N  / IRLZ34N
+R7      Resistor 10k
+
+Optional - Spannungsversorgung für 4-9V
+---------------------------------------
+LTO     Voltage Regulator MCP1702
+C1      Ceramic Capacitor 1uF
+C2      Ceramic Capacitor 1uF
+
+Zubehör
+-------
+3 x     3-fach Pinheader (J1, J2, J3)
+5 x     Jumper für Pinheader
+
+Je nach Bedarf und Ausstattung des Boards
+2 x     2-fach JST-XH oder Pinheader (Versorgungsspannung)
+1 x     3-fach JST-XH oder Pinheader (1-Wire-Anschluss)
+1 x     4-fach JST-XH oder Pinheader (I2C-Anschluss)
+1 x     6-fach JST-XH oder Pinheader (A1 ... D6-Portanschlüsse)
+        oder
+        7-fach JST-XH oder Pinheader (GND, A1 ... D6-Portanschlüsse)
+
+4 x     Befestigungsschrauben 2,2 x 6,5 oder 2,2 x 9,9 (optional)

@@ -1,0 +1,41 @@
+===========================
+HB-UNI-Mini-X - Version 1.0
+===========================
+
+Name	Beschreibung
+------------------------------------------
+U1      Arduino Pro Mini V3 - 3.3V
+CC1101  CC1101 Module
+S1      Pushbutton - Mikroschalter 6x6x6 mm - 2.5 
+
+Optional
+--------
+C1      Electrolytic Capacitor 1uF
+
+Optional - LED Anzeige
+----------------------
+D1      LED - 3mm
+R1      Resistor 1.5k
+1 x     2-fach Pinheader (J1)
+
+Optional - I2C Pullup
+---------------------
+R3      Resistor 10k
+R4      Resistor 10k
+        mit Löt-Jumper (J2)
+
+Optional - 1-Wire
+-----------------
+R2      Resistor 4.7k
+
+Optional - Spannungsversorgung für 4-9V
+---------------------------------------
+LTO     Voltage Regulator MCP1702
+C1      Ceramic Capacitor 1uF
+C2      Ceramic Capacitor 1uF
+
+Zubehör
+-------
+Je nach Bedarf und Ausstattung des Boards
+
+4 x     Befestigungsschrauben 2,2 x 6,5 oder 2,2 x 9,9 (optional)
