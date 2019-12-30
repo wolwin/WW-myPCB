@@ -1,0 +1,34 @@
+=======================================
+HB-UNI-Mini-X-AddOn - 1.1 - Version 1.1
+=======================================
+
+Name	Beschreibung
+------------------------------------------
+
+Optional - Spannungsüberwachung
+-------------------------------
+C4      Ceramic Capacitor 100nF
+R2      Resistor 1M
+R3      Resistor 100k
+
+Optional - GND-Schaltung
+------------------------
+Q1      Basic FET N-Channel IRLU024NPBF (evtl. auch IRL2203N  / IRLZ34N)
+
+Spannungsversorgung für 3V
+--------------------------
+Jumper J1 = geschlossen
+LTO, C1, C2 nicht bestückt
+
+Optional - Spannungsversorgung für 4-9V
+---------------------------------------
+Jumper J1 = offen
+LTO     Voltage Regulator MCP1702
+C1      Ceramic Capacitor 1uF
+C2      Ceramic Capacitor 1uF
+
+Zubehör
+-------
+Je nach Bedarf und Ausstattung des Boards
+1 x     2-fach JST-XH oder Pinheader (Versorgungsspannung)
+1 x     1-fach Pinheader ([GND]-Anschluss)

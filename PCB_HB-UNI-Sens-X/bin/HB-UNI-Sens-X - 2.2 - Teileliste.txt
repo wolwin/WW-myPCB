@@ -35,8 +35,7 @@ R8      Resistor 4.7k
 
 Optional - GND-Schaltung
 ------------------------
-Q1      Basic FET N-Channel IRL2203N  / IRLZ34N
-R7      Resistor 10k
+Q1      Basic FET N-Channel IRLU024NPBF / IRL2203N  / IRLZ34N 
 
 Optional - Spannungsversorgung für 4-9V
 ---------------------------------------
