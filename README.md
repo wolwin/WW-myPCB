@@ -2,12 +2,10 @@
 Various <b>PCB</b> Projects
 
 
-## Disclaimer
 
-|Bei den Inhalten handelt es sich um reine Hobby-Projekte.|
-|---|
-|**Die vorgestellte Hard- und Software wurde vom Autor mit größter Sorgfalt erarbeitet und erstellt. Totzdem sind Fehler nicht auszuschließen. Daher kann keine Garantie noch juristische Verantwortung oder irgendeine Haftung von Folgen übernommen werden, die auf den Einsatz der Hard- und Software und deren Beschreibung zurückzuführen sind. Für die Mitteilung evtl. Fehler ist der Autor jederzeit dankbar.**|
-|**Die Verwendung erfolgt auf eigene Gefahr.**|
+
+## Disclaimer
+[=> DISCLAIMER](DISCLAIMER)
 
 ## Lizenz
 
