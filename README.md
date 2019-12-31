@@ -5,7 +5,7 @@ Various <b>PCB</b> Projects
 
 
 ## Disclaimer
-[=> DISCLAIMER](./DISCLAIMER)
+[=> DISCLAIMER](../DISCLAIMER)
 
 ## Lizenz
 
