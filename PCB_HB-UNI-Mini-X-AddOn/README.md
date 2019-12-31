@@ -8,6 +8,7 @@ xxx
 
 #### Platine
 - Version: 1.1
+- Maße: 33 x 18 mm
 - Oberseite:
   <br><br>
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Top](./img/PCB_HB-UNI-Mini-X-AddOn_1.1_Top.jpg "HB-UNI-Mini-X-AddOn - Top")

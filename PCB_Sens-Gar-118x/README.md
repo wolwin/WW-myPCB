@@ -8,6 +8,7 @@ xxx
 
 #### Platine
 - Version: 1.6
+- Maße: 60 x 25 mm
 - Oberseite:
   <br><br>
 ![WW-myPCB - Sens-Gar-118x - Top](./img/PCB_Sens-Gar-118x_1.6_Top.jpg "Sens-Gar-118x - Top")

@@ -8,6 +8,7 @@ xxx
 
 #### Platine
 - Version: 2.2
+- Maße: 60 x 35 mm
 - Oberseite:
   <br><br>
 ![WW-myPCB - HB-UNI-Sens-X - Top](./img/PCB_HB-UNI-Sens-X_2.2_Top.jpg "HB-UNI-Sens-X - Top")
