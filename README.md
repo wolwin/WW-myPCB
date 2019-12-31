@@ -1,16 +1,15 @@
 # WW-myPCB
 Verschiedene <b>PCB</b> Projekte
 
-[Zeige 'HB-UNI-Sens-X' ...](./PCB_HB-UNI-Sens-X/README.md)
-
-[Zeige 'HB-UNI-Mini-X' ...](./PCB_HB-UNI-Mini-X/README.md)
-
-[Zeige 'HB-UNI-Mini-X-AddOn' ...](./PCB_HB-UNI-Mini-X-AddOn/README.md)
-
-[Zeige 'Sens-Gar-118x' ...](./PCB_Sens-Gar-118x/README.md)
+| **Bezeichnung** | **Beschreibung** |
+| --- | --- |
+| [HB-UNI-Sens-X](./PCB_HB-UNI-Sens-X/README.md "Zeigen ...")| Universielle AskSinPP Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten |
+| [HB-UNI-Mini-X](./PCB_HB-UNI-Mini-X/README.md "Zeigen ...") | Universielle AskSinPP Mini-Platine |
+| [HB-UNI-Mini-X-AddOn](./PCB_HB-UNI-Mini-X-AddOn/README.md "Zeigen ...") | AddOn Platine für 'HB-UNIMini-X' |
+| [Sens-Gar-118x](./PCB_Sens-Gar-118x/README.md "Zeigen ...") | Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Sens-X' oder 'HB-UNI-Mini-X' |
 
 ## Disclaimer
-[Lese DISCLAIMER ...](DISCLAIMER.md)
+[Lese DISCLAIMER ...](DISCLAIMER.md "Lesen ...")
 
 ## Lizenz
 
