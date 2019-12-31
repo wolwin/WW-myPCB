@@ -17,4 +17,4 @@ HB-UNI-Sens-X
 #### Historie
 2.2 - 12-2019
 <br>
-\- Erstveröffentllichung
+\- Erstveröffentlichung

@@ -17,4 +17,4 @@ HB-UNI-Mini-X-AddOn
 #### Historie
 1.1 - 12-2019
 <br>
-\- Erstveröffentllichung
+\- Erstveröffentlichung

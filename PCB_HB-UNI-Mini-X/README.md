@@ -17,4 +17,4 @@ HB-UNI-Mini-X
 #### Historie
 1.0 - 12-2019
 <br>
-\- Erstveröffentllichung
+\- Erstveröffentlichung
