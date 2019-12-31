@@ -2,7 +2,8 @@
 HB-UNI-Mini-X
 
 
-#### BME-Shield V 1.1 - Konstruktion
-- Passiv belüftete Wetterkappe
-
-![WW-myPCB - HB-UNI-Mini-X - Top](./img/PCB_HB-UNI-Mini-X_1.0_Top.jpg)
+#### Platine
+- Top
+![WW-myPCB - HB-UNI-Mini-X - Top](./img/PCB_HB-UNI-Mini-X_1.0_Top.jpg "HB-UNI-Mini-X - Top")
+- Bottom
+![WW-myPCB - HB-UNI-Mini-X - Bottom](./img/PCB_HB-UNI-Mini-X_1.0_Bottom.jpg "HB-UNI-Mini-X - Bottom")
