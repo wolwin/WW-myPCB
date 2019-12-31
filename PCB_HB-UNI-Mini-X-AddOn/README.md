@@ -3,6 +3,8 @@ HB-UNI-Mini-X-AddOn
 
 #### Beschreibung
 
+xxx
+
 #### Platine
 - Version: 1.1
 - Oberseite:
@@ -13,6 +15,12 @@ HB-UNI-Mini-X-AddOn
   <br><br>
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Bottom](./img/PCB_HB-UNI-Mini-X-AddOn_1.1_Bottom.jpg "HB-UNI-Mini-X-AddOn - Bottom")
 <br><br>
+
+#### Teileliste
+[Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.1_Teileliste.txt)
+
+#### Schaltplan
+[Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.1.pdf)
 
 #### Historie
 1.1 - 12-2019
