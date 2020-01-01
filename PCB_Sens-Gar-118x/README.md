@@ -45,7 +45,7 @@ Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Sens-X' oder 'H
     - Projekt 'SHP_Gardena-118x'
 <br><br>
 - Programmierung des 'ATtiny24a' - INO-File siehe hier:
-  - Projekt 'SHP_Gardena-118x - GARDENA_Sensor_118x' - [Zeigen ...](/SHP_Gardena-118x/README.md)
+  - Projekt 'SHP_Gardena-118x - GARDENA_Sensor_118x' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_Gardena-118x/README.md)
 <br><br>
 - Gemessener Ruhestrom ohne externe Komponenten
   - mit 2 AA Batterien (=3.2V) ohne LDO-Regelung < 4uA
