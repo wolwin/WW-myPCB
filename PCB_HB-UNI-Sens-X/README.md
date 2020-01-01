@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-Universielle AskSinPP Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten
+Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten.
 
 #### Platine
 - Version: 2.2
@@ -64,6 +64,7 @@ Universielle AskSinPP Platine mit verschiedenen Sensor Anschluß- und Konfigurat
     - Aufspielen des Bootloaders und Setzen der Fuse-Bits
     - Details dazu auf der 'AskSin++' Side - [Zeigen ...](https://asksinpp.de/Grundlagen/FAQ/babbling_idiot.html#anschluss-des-isp)
     -  Aufspielen des INO-Scripts - z.B.:
+        - Projekt 'PCB_HB-UNI-Sens-X' - [Zeigen ...](SHP_HB-UNI-Sens-X\README.md)
         - 'Universalsensor HB-UNI-Sensor1' von 'Github TomMajor' Side' - [Zeigen ...](https://github.com/TomMajor/SmartHome/tree/master/HB-UNI-Sensor1#universalsensor-hb-uni-sensor1)
 <br><br>
 - Gemessener Ruhestrom ohne externe Komponenten
