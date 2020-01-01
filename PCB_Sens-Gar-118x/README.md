@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-xxx
+Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Sens-X' oder 'HB-UNI-Mini-X'
 
 #### Platine
 - Version: 1.6
