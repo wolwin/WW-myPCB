@@ -21,15 +21,38 @@ xxx
 #### Gerber-Dateien
 [Download ...](./bin/Gerber_Sens-Gar-118x_1.6.zip)
 
+#### Schaltplan
+[Zeigen ...](./bin/Sens-Gar-118x_1.6.pdf)
+
 #### Teileliste
 [Zeigen ...](./bin/Sens-Gar-118x_1.6_Teileliste.txt)
 
-#### Schaltplan
-[Zeigen ...](./bin/Sens-Gar-118x_1.6.pdf)
+#### Aufbau
+- Bestückung der Platine entsprechend der Teileliste.
+<br><br>
+- Spannungsversorgung
+  - 3 - 3.3 V (max)
+    - LDO, C1 und C2 werden <u>nicht</u> bestückt
+    - Jumper J3 (links) auf '3V' setzen (oder Lötbrücke)
+  - optional 4 - 9 V (max. 12 V)
+    - LDO, C1 und C2 werden bestückt
+    - Jumper J3 (rechts) auf '4-9V' setzen (oder Lötbrücke)
+<br><br>
+- Anschluß-Konfiguration
+  - für den Anschluß von GARDENA 118x Geräten bleiben die Jumper J1 und J2 offen (default)
+  - wenn ein (potentialfreier) Schalter - statt eines GARDENA 118x Gerätes - angeschlossen werden soll, wird der jeweilige Jumper J1/J2 gesetzt
+  - detailierte Konfigurationsmöglichkeiten siehe hier:
+    - Projekt 'SHP_Gardena-118x'
+<br><br>
+- Programmierung des 'ATtiny24a' - INO-File siehe hier:
+  - Projekt 'SHP_Gardena-118x - GARDENA_Sensor_118x'
+<br><br>
+- Gemessener Ruhestrom ohne externe Komponenten
+  - mit 2 AA Batterien (=3.2V) ohne LDO-Regelung < 4uA
+  - mit 3 AA Batterien (=4.8V) und 3.3V LDO-Regelung <= 6uA
 
 #### Bilder
 
 #### Historie
-1.6 - 12-2019
-<br>
-\- Erstveröffentlichung
+- 2020-01-10 - Erstveröffentlichung
+  - Version 1.6 - 12-2019

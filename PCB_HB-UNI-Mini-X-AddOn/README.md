@@ -21,11 +21,13 @@ xxx
 #### Gerber-Dateien
 [Download ...](./bin/Gerber_HB-UNI-Mini-X-AddOn_1.1.zip)
 
+#### Schaltplan
+[Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.1.pdf)
+
 #### Teileliste
 [Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.1_Teileliste.txt)
 
-#### Schaltplan
-[Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.1.pdf)
+#### Aufbau
 
 #### Bilder
 

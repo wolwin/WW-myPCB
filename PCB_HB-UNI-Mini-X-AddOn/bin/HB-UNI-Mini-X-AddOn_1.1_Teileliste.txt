@@ -18,12 +18,12 @@ Q1      Basic FET N-Channel IRLU024NPBF (evtl. auch IRL2203N  / IRLZ34N)
 Spannungsversorgung für 3V
 --------------------------
 Jumper J1 = geschlossen
-LTO, C1, C2 nicht bestückt
+LDO, C1, C2 nicht bestückt
 
 Optional - Spannungsversorgung für 4-9V
 ---------------------------------------
 Jumper J1 = offen
-LTO     Voltage Regulator MCP1702
+LDO     Voltage Regulator MCP1702
 C1      Ceramic Capacitor 1uF
 C2      Ceramic Capacitor 1uF
 

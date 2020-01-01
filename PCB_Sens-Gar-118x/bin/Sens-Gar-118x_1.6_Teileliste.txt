@@ -17,9 +17,15 @@ R22     Resistor 10k
 R23     Resistor 4.7k
 R41     Resistor 10k
 
+Spannungsversorgung für 3V
+--------------------------
+Jumper J3 = '3V'
+LDO, C1, C2 nicht bestückt
+
 Optional - Spannungsversorgung für 4-9V:
 ----------------------------------------
-LTO     Voltage Regulator MCP1702
+Jumper J3 = '4-9V'
+LDO     Voltage Regulator MCP1702
 C1      Ceramic Capacitor 1uF
 C2      Ceramic Capacitor 1uF
 

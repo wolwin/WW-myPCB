@@ -37,9 +37,15 @@ Optional - GND-Schaltung
 ------------------------
 Q1      Basic FET N-Channel IRLU024NPBF / IRL2203N  / IRLZ34N 
 
+Spannungsversorgung für 3V
+--------------------------
+Jumper J1 = '3V'
+LDO, C1, C2 nicht bestückt
+
 Optional - Spannungsversorgung für 4-9V
 ---------------------------------------
-LTO     Voltage Regulator MCP1702
+Jumper J1 = '4-9V'
+LDO     Voltage Regulator MCP1702
 C1      Ceramic Capacitor 1uF
 C2      Ceramic Capacitor 1uF
 
