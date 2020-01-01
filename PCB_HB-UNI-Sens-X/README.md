@@ -64,7 +64,7 @@ Universielle AskSinPP Platine mit verschiedenen Sensor Anschluß- und Konfigurat
     - Aufspielen des Bootloaders und Setzen der Fuse-Bits
     - Details dazu auf der 'AskSin++' Side - [Zeigen ...](https://asksinpp.de/Grundlagen/FAQ/babbling_idiot.html#anschluss-des-isp)
     -  Aufspielen des INO-Scripts - z.B.:
-      - 'Universalsensor HB-UNI-Sensor1' von 'Github TomMajor' Side' - [Zeigen ...](https://github.com/TomMajor/SmartHome/tree/master/HB-UNI-Sensor1#universalsensor-hb-uni-sensor1)
+        - 'Universalsensor HB-UNI-Sensor1' von 'Github TomMajor' Side' - [Zeigen ...](https://github.com/TomMajor/SmartHome/tree/master/HB-UNI-Sensor1#universalsensor-hb-uni-sensor1)
 <br><br>
 - Gemessener Ruhestrom ohne externe Komponenten
   - mit 2 AA Batterien (=3.2V) ohne LDO-Regelung < 4uA
