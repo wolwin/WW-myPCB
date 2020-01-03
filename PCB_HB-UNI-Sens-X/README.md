@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten.
+Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten im THT-Format.
 
 #### Platine
 - Version: 2.2
