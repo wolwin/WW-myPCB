@@ -30,9 +30,9 @@ Universielle 'AskSin++' Mini-Platine.
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
   - zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten) und zuletzt das Sendemodul CC1101
-  - in der Regel wird die Platine mit zwei Stiftleisten von oben auf den Arduino gesetzt - auf die Platine kommt dann wiederum das Sendemodul (Variante 1 - minimale Bauhöhe ca. 14 mm)
-  - es ist jedoch auch möglich den Arduino oben auf die Platine zu setzen - dabei werden dann S1, D1 und J1 von unten auf die Platine gelötet
-  -
+  - in der Regel wird die Platine mit zwei Stiftleisten von oben auf den Arduino gesetzt - auf die Platine kommt dann wiederum das Sendemodul (Variante 1)
+  - es ist jedoch auch möglich den Arduino von oben auf die Platine zu setzen - dabei werden dann S1, D1 und J1 von unten auf die Platine gelötet (Variante 2)
+  - minimale Bauhöhe ca. 14-15 mm
 - Optionale Komponenten = zusätzliche Bestückung:
   - Status-LED
     - Bestückung mit D1, R1 und Jumper J1 - um Strom zu sparen, kann der Jumper nach dem 'Anlernen' für die 'Produktion' entfernt werden
