@@ -73,6 +73,9 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
   - mit 3 AA Batterien (=4.8V) und 3.3V LDO-Regelung <= 7uA
 
 #### Bilder
+- Übersicht<br><br>
+![WW-myPCB - HB-UNI-Sens-X - Variante](./img/PCB_HB-UNI-Sens-X_01.jpg "HB-UNI-Sens-X - Variante")
+![WW-myPCB - HB-UNI-Sens-X - Variante](./img/PCB_HB-UNI-Sens-X_02.jpg "HB-UNI-Sens-X - Variante")
 
 #### Historie
 - 2020-01-10 - Erstveröffentlichung

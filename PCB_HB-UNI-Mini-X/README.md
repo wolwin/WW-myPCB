@@ -44,17 +44,17 @@ Universielle 'AskSin++' Mini-Platine.
     - Bestückung mit C1
 
 #### Bilder
-- Zusammenbau Variante 1 (default)<br><br>
-![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/Var_1_01.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/Var_1_02.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/Var_1_03.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/Var_1_04.jpg "HB-UNI-Mini-X - Variante 1")
+- Übersicht - Variante 1 (default)<br><br>
+![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_01.jpg "HB-UNI-Mini-X - Variante 1")
+![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_02.jpg "HB-UNI-Mini-X - Variante 1")
+![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_03.jpg "HB-UNI-Mini-X - Variante 1")
+![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_04.jpg "HB-UNI-Mini-X - Variante 1")
 
-- Zusammenbau Variante 2<br><br>
-![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/Var_2_01.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/Var_2_02.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/Var_2_03.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/Var_2_04.jpg "HB-UNI-Mini-X - Variante 1")
+- Übersicht - Variante 2<br><br>
+![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_01.jpg "HB-UNI-Mini-X - Variante 1")
+![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_02.jpg "HB-UNI-Mini-X - Variante 1")
+![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_03.jpg "HB-UNI-Mini-X - Variante 1")
+![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_04.jpg "HB-UNI-Mini-X - Variante 1")
 
 #### Historie
 - 2020-01-10 - Erstveröffentlichung
