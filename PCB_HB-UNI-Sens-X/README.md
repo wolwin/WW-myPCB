@@ -29,22 +29,22 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
 
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
-  - zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten) und zuletzt das Sendemodul CC1101 - bei Bedarf können Arduino und Sendemodul gesockelt werden
-  - Jumper J2 und J3 in Richtung 'I2C' nach 'oben' setzen (oder Lötbrücke)
-  - Jumper J4 bleibt offen
+  - Zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten) und zuletzt das Sendemodul CC1101 - bei Bedarf können Arduino und Sendemodul gesockelt werden.
+  - Jumper J2 und J3 in Richtung 'I2C' nach 'oben' setzen (oder Lötbrücke).
+  - Jumper J4 bleibt offen.
 <br><br>
 - Spannungsversorgung
   - 3 - 3.3 V (max)
-    - LDO, C1 und C2 werden <u>nicht</u> bestückt
-    - Jumper J1 (links) auf '3V' setzen (oder Lötbrücke)
+    - LDO, C1 und C2 werden <u>nicht</u> bestückt.
+    - Jumper J1 (links) auf '3V' setzen (oder Lötbrücke).
   - optional 4 - 9 V (max. 12 V)
-    - LDO, C1 und C2 werden bestückt
-    - Jumper J1 (rechts) auf '4-9V' setzen (oder Lötbrücke)
-  - 2-fach Pinheader mit Abgabe von 3 bzw. 3.3 V für Zusatzplatinen - bei der Benutzung des MCP1702 max. 250mA für alle angeschlossenen Platinen und Elemente
+    - LDO, C1 und C2 werden bestückt.
+    - Jumper J1 (rechts) auf '4-9V' setzen (oder Lötbrücke).
+  - 2-fach Pinheader mit Abgabe von 3 bzw. 3.3 V für Zusatzplatinen - bei der Benutzung des MCP1702 max. 250mA für alle angeschlossenen Platinen und Elemente.
 <br><br>
 - Optionale Komponenten = zusätzliche Bestückung:
   - Status-LED
-    - Bestückung mit D1, R1 und Jumper J5 - um Strom zu sparen, kann der Jumper nach dem 'Anlernen' für die 'Produktion' entfernt werden
+    - Bestückung mit D1, R1 und Jumper J5 - um Strom zu sparen, kann der Jumper nach dem 'Anlernen' für die 'Produktion' entfernt werden.
   - Anschluß von 1-Wire Komponenten
     - Bestückung mit R8
   - Anschluß von I2C Komponenten, die Pullup Widerstände benötigen
@@ -58,7 +58,7 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
 <br><br>
 - Vorbereitung des 'Arduino Pro Mini':
   - Hardware
-    - bei Batteriebetrieb müssen zur Minimierung des Ruhestroms auf dem 'Arduino Pro Mini' Board der LDO Spannungsregler und die <u>drei</u> Signal-LEDs ausgelötet werden
+    - Bei Batteriebetrieb müssen zur Minimierung des Ruhestroms auf dem 'Arduino Pro Mini' Board der LDO Spannungsregler und die <u>drei</u> Signal-LEDs ausgelötet werden.
     - Details dazu auf der 'AskSin++' Side - [Zeigen ...](https://asksinpp.de/Grundlagen/01_hardware.html#batteriebetrieb)
       - Anmerkung: die *dritte* Signal-LED befindet sich unten rechts auf der Platine - siehe [-5-]
   - Software
