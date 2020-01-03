@@ -28,7 +28,8 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
 [Zeigen ...](./bin/HB-UNI-Sens-X_2.2_Teileliste.txt)
 
 #### Aufbau
-- Bestückung der Platine entsprechend der Teileliste.
+- Bestückung der Platine entsprechend der Teileliste:
+  - zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten) und zuletzt das Sendemodul CC1101 - bei Bedarf können Arduino und Sendemodul gesockelt werden
   - Jumper J2 und J3 in Richtung 'I2C' nach 'oben' setzen (oder Lötbrücke)
   - Jumper J4 bleibt offen
 <br><br>
@@ -57,7 +58,7 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
 <br><br>
 - Vorbereitung des 'Arduino Pro Mini':
   - Hardware
-    - zur Minimierung des Ruhestroms müssen auf dem 'Arduino Pro Mini' Board der LDO Spannungsregler und die <u>drei</u> Signal-LEDs ausgelötet werden
+    - bei Batteriebetrieb müssen zur Minimierung des Ruhestroms auf dem 'Arduino Pro Mini' Board der LDO Spannungsregler und die <u>drei</u> Signal-LEDs ausgelötet werden
     - Details dazu auf der 'AskSin++' Side - [Zeigen ...](https://asksinpp.de/Grundlagen/01_hardware.html#batteriebetrieb)
       - Anmerkung: die *dritte* Signal-LED befindet sich unten rechts auf der Platine - siehe [-5-]
   - Software
