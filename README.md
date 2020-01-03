@@ -7,7 +7,7 @@ der unterschiedlichen <b>PCB</b> Projekte:
 | **Bezeichnung** | **Beschreibung** |
 | --- | --- |
 | [HB-UNI-Mini-X](./PCB_HB-UNI-Mini-X/README.md "Zeigen ...") | Universielle 'AskSin++' Mini-Platine (THT-Format) |
-| [HB-UNI-Mini-X-AddOn](./PCB_HB-UNI-Mini-X-AddOn/README.md "Zeigen ...") | AddOn Platine für 'HB-UNI-Mini-X' (THT-Format) |
+| [HB&#8209;UNI&#8209;Mini&#8209;X&#8209;AddOn](./PCB_HB-UNI-Mini-X-AddOn/README.md "Zeigen ...") | AddOn Platine für 'HB-UNI-Mini-X' (THT-Format) |
 | [HB-UNI-Sens-X](./PCB_HB-UNI-Sens-X/README.md "Zeigen ...") | Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten (THT-Format) |
 | [Sens-Gar-118x](./PCB_Sens-Gar-118x/README.md "Zeigen ...") | Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Mini-X' oder 'HB-UNI-Sens-X' (THT-Format) |
 
