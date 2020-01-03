@@ -29,7 +29,7 @@ AddOn Platine für 'HB-UNI-Mini-X'. Mit 'HB-UNI-Mini-X' und dem 'HB-UNI-Mini-X-A
 
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
- - Nach der Bestückung wird die AddOn-Platine von unten auf die zwei Stiftleisten des Arduino gesetzt (siehe Zusammenbau-Variante 1 des 'HB-UNI-Mini-X') und verlötet - d.h.: die Lötseiten der beiden Platinen stehen gegeneinander (identische Pinbezeichnungen!!). Weiter ist auf ausreichenden Abstand der beiden Platinen zueinander zu achten.
+  - Nach der Bestückung wird die AddOn-Platine von unten auf die zwei Stiftleisten des Arduino gesetzt (siehe Zusammenbau-Variante 1 des 'HB-UNI-Mini-X') und verlötet - d.h.: die Lötseiten der beiden Platinen stehen gegeneinander (identische Pinbezeichnungen!!). Weiter ist auf ausreichenden Abstand der beiden Platinen zueinander zu achten.
   - Es ist auch möglich die Zusammenbau-Variante 2 des 'HB-UNI-Mini-X' mit dem AddOn-Modul zu versehen: dazu erfolgt die AddOn Bestückung auf der Oberseite der Platine (Achtung bei Bestückung: LDO und Mosfet sind gedreht!!).
 <br><br>
 - Spannungsversorgung für 'HB-UNI-Mini-X'- und 'HB-UNI-Mini-X-AddOn'-Modul über 'Vin'-Anschluß
