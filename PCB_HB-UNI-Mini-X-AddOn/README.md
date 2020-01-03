@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-xxx
+AddOn Platine für 'HB-UNI-Mini-X'.
 
 #### Platine
 - Version: 1.1
@@ -32,6 +32,5 @@ xxx
 #### Bilder
 
 #### Historie
-1.1 - 12-2019
-<br>
-\- Erstveröffentlichung
+- 2020-01-10 - Erstveröffentlichung
+  - Version 1.1 - 12-2019

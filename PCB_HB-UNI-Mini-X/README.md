@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-xxx
+Universielle 'AskSin++' Mini-Platine.
 
 #### Platine
 - Version: 1.0
