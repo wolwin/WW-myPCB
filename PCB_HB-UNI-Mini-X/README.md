@@ -29,10 +29,14 @@ Universielle 'AskSin++' Mini-Platine im THT-Format. Es sind alle Ports des 'Ardu
 
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
-  - Zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten) und zuletzt das Sendemodul CC1101.
-  - In der Regel wird die Platine mit zwei Stiftleisten von oben auf den Arduino gesetzt (vor dem Zusammenlöten darauf achten, daß der Reset-Knopf des Arduino nicht gedrückt wird) - auf die Platine kommt dann wiederum das Sendemodul (Variante 1).
-  - Es ist jedoch auch möglich den Arduino von oben auf die Platine zu setzen - dabei werden dann S1, D1 und J1 von unten auf die Platine gelötet (Variante 2).
-  - minimale Bauhöhe ca. 14-15 mm
+  - Zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten - Funktionstest vor dem Einlöten durchführen) und zuletzt das Sendemodul CC1101.
+  - In der Regel wird die Platine mit zwei Stiftleisten von oben auf den Arduino gesetzt (vor dem Zusammenlöten darauf achten, daß der Reset-Knopf des Arduino nicht gedrückt wird und keine Verbindungskontakte über die Bauteilelötung erfolgt) - auf die Platine kommt dann wiederum das Sendemodul ( => Variante 1).
+    - das Sendemodul CC1101 wird über eine Stiftleiste oder eine Sockelleiste oberhalb angeordnet
+    - alternativ kann das Sendemodul auch gedreht (mit der Rückseite nach oben) direkt auf die Trägerplatine gelötet werden - dabei ragt es seitlich über den Träger hinaus
+  - Es ist auch möglich den Arduino von oben auf die Platine zu setzen - dabei werden dann S1, D1 und J1 von unten auf die Platine gelötet ( => Variante 2).
+    - auch hier wird das Sendemodul CC1101 wie in der Variante 1 verbaut
+  - minimale Bauhöhe ca. 15 mm
+<br><br>
 - Optionale Komponenten = zusätzliche Bestückung:
   - Status-LED
     - Bestückung mit D1, R1 und Jumper J1 - um Strom zu sparen, kann der Jumper nach dem 'Anlernen' für die 'Produktion' entfernt werden.
@@ -42,6 +46,20 @@ Universielle 'AskSin++' Mini-Platine im THT-Format. Es sind alle Ports des 'Ardu
     - Bestückung mit R3, R4 und Löt-Jumper J2 (gesetzt)
   - Spannungsstabilisierung
     - Bestückung mit C1
+<br><br>
+- Vorbereitung des 'Arduino Pro Mini':
+    - Hardware
+      - Bei Batteriebetrieb müssen zur Minimierung des Ruhestroms auf dem 'Arduino Pro Mini' Board der LDO Spannungsregler und die <u>drei</u> Signal-LEDs ausgelötet werden.
+      - Details dazu auf der 'AskSin++' Side - [Zeigen ...](https://asksinpp.de/Grundlagen/01_hardware.html#batteriebetrieb)
+        - Anmerkung: die *dritte* Signal-LED befindet sich unten rechts auf der Platine - siehe [-5-]
+    - Software
+      - Aufspielen des Bootloaders und Setzen der Fuse-Bits
+      - Details dazu auf der 'AskSin++' Side - [Zeigen ...](https://asksinpp.de/Grundlagen/FAQ/babbling_idiot.html#anschluss-des-isp)
+      -  Aufspielen des INO-Scripts und Test
+    <br><br>
+    - Gemessener Ruhestrom ohne externe Komponenten
+      - mit 2 AA Batterien (=3.2V) < 7uA
+      - mit 3 AA Batterien (=4.8V) <= 7uA
 
 #### Bilder
 - Übersicht - Variante 1 (default)<br><br>

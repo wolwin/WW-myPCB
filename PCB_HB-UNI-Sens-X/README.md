@@ -29,7 +29,7 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
 
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
-  - Zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten) und zuletzt das Sendemodul CC1101 - bei Bedarf können Arduino und Sendemodul gesockelt werden.
+  - Zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten - Funktionstest vor dem Einlöten durchführen) und zuletzt das Sendemodul CC1101 - bei Bedarf können Arduino und Sendemodul gesockelt werden.
   - Jumper J2 und J3 in Richtung 'I2C' nach 'oben' setzen (oder Lötbrücke).
   - Jumper J4 bleibt offen.
 <br><br>
