@@ -11,21 +11,21 @@ AddOn Platine für 'HB-UNI-Mini-X' im THT-Format. Mit 'HB-UNI-Mini-X' und dem 'H
 - Maße: 33 x 18 mm
 - Oberseite:
   <br><br>
-![WW-myPCB - HB-UNI-Mini-X-AddOn - Top](./img/PCB_HB-UNI-Mini-X-AddOn_1.1_Top.jpg "HB-UNI-Mini-X-AddOn - Top")
+![WW-myPCB - HB-UNI-Mini-X-AddOn - Top](./img/PCB_HB-UNI-Mini-X-AddOn_1.2_Top.jpg "HB-UNI-Mini-X-AddOn - Top")
 <br><br>
 - Unterseite:
   <br><br>
-![WW-myPCB - HB-UNI-Mini-X-AddOn - Bottom](./img/PCB_HB-UNI-Mini-X-AddOn_1.1_Bottom.jpg "HB-UNI-Mini-X-AddOn - Bottom")
+![WW-myPCB - HB-UNI-Mini-X-AddOn - Bottom](./img/PCB_HB-UNI-Mini-X-AddOn_1.2_Bottom.jpg "HB-UNI-Mini-X-AddOn - Bottom")
 <br><br>
 
 #### Gerber-Dateien
-[Download ...](./bin/Gerber_HB-UNI-Mini-X-AddOn_1.1.zip)
+[Download ...](./bin/Gerber_HB-UNI-Mini-X-AddOn_1.2.zip)
 
 #### Schaltplan
-[Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.1.pdf)
+[Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.2.pdf)
 
 #### Teileliste
-[Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.1_Teileliste.txt)
+[Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.2_Teileliste.txt)
 
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
@@ -53,4 +53,4 @@ AddOn Platine für 'HB-UNI-Mini-X' im THT-Format. Mit 'HB-UNI-Mini-X' und dem 'H
 
 #### Historie
 - 2020-01-10 - Erstveröffentlichung
-  - Version 1.1 - 12-2019
+  - Version 1.2 - 12-2019
