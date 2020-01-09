@@ -42,10 +42,10 @@ Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Sens-X' oder 'H
   - für den Anschluß von GARDENA 118x Geräten bleiben die Jumper J1 und J2 offen (default)
   - wenn ein (potentialfreier) Schalter - statt eines GARDENA 118x Gerätes - angeschlossen werden soll, wird der jeweilige Jumper J1/J2 gesetzt
   - detailierte Konfigurationsmöglichkeiten siehe hier:
-    - Projekt 'SHP_Gardena-118x' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_Gardena-118x/README.md)
+    - Projekt 'SHP_HB-SCI-4-O-Gar118x' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB-SCI-4-O-Gar118x/README.md)
 <br><br>
 - Programmierung des 'ATtiny24a' - INO-File siehe hier:
-  - Projekt 'SHP_Gardena-118x' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_Gardena-118x/README.md)
+  - Projekt 'SHP_Sens-Gar-118x' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_Sens-Gar-118x/README.md)
 <br><br>
 - Gemessener Ruhestrom ohne externe Komponenten
   - mit 2 AA Batterien (=3.2V) ohne LDO-Regelung < 4uA
