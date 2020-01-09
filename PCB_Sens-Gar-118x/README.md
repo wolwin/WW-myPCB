@@ -52,6 +52,8 @@ Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Sens-X' oder 'H
   - mit 3 AA Batterien (=4.8V) und 3.3V LDO-Regelung <= 6uA
 
 #### Bilder
+- Übersicht - 'Sens-Gar-118x' <br><br>
+![WW-myPCB - Sens-Gar-118x](./img/PCB_Sens-Gar-118x_01.jpg "Sens-Gar-118x")
 
 #### Historie
 - 2020-01-10 - Erstveröffentlichung
