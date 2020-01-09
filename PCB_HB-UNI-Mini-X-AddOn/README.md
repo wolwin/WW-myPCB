@@ -50,7 +50,7 @@ AddOn Platine für 'HB-UNI-Mini-X' im THT-Format. Mit 'HB-UNI-Mini-X' und dem 'H
     - Bestückung mit Q1
 
 #### Bilder
-- Übersicht - AddOn mit Variante 1 (default)<br><br>
+- Übersicht - 'HB-UNI-Mini-X-AddOn' mit 'HB-UNI-Mini-X' (Variante 1 - default)<br><br>
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Variante 1](./img/PCB_HB-UNI-Mini-X-AddOn_1_01.jpg "HB-UNI-Mini-X-AddOn - Variante 1")
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Variante 1](./img/PCB_HB-UNI-Mini-X-AddOn_1_02.jpg "HB-UNI-Mini-X-AddOn - Variante 1")
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Variante 1](./img/PCB_HB-UNI-Mini-X-AddOn_1_03.jpg "HB-UNI-Mini-X-AddOn - Variante 1")
