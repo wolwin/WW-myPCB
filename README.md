@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-der unterschiedlichen <b>PCB</b> Projekte:
+der unterschiedlichen <b><u>PCB</u></b> Projekte:
 
 | **Bezeichnung** | **Beschreibung** |
 | --- | --- |
