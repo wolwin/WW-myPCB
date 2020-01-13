@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-der unterschiedlichen <b>_PCB_</b> Projekte:
+der unterschiedlichen _<b>P</b>rinted <b>C</b>ircuit <b>B</b>oard_ Projekte:
 
 | **Bezeichnung** | **Beschreibung** |
 | --- | --- |
