@@ -11,6 +11,10 @@ der unterschiedlichen _<b>P</b>rinted <b>C</b>ircuit <b>B</b>oard_ Projekte:
 | [HB‑UNI‑Sens‑X](./PCB_HB-UNI-Sens-X/README.md "Zeigen ...") | Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten (THT-Format) |
 | [Sens‑Gar‑118x](./PCB_Sens-Gar-118x/README.md "Zeigen ...") | Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Mini-X' oder 'HB-UNI-Sens-X' (THT-Format) |
 
+## Andere Übersichten
+- 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)
+- 'WW-my3DP' - 3D-Print Projekte - [Zeigen ...](https://github.com/wolwin/WW-my3DP/blob/master/README.md)
+
 ## Disclaimer
 [Lese DISCLAIMER ...](DISCLAIMER.md "Lesen ...")
 
