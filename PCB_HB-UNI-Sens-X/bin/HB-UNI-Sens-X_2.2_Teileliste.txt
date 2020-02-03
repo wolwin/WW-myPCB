@@ -31,7 +31,7 @@ R6      Resistor 10k
 
 Optional - 1-Wire
 -----------------
-R8      Resistor 4.7k
+R7      Resistor 4.7k
 
 Optional - GND-Schaltung
 ------------------------
