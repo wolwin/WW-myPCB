@@ -13,6 +13,7 @@ der unterschiedlichen _<b>P</b>rinted <b>C</b>ircuit <b>B</b>oard_ Projekte:
 
 ## Andere Übersichten
 - 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)
+- 'WW-mySHT' - Smart-Home-Tools - [Zeigen ...](https://github.com/wolwin/WW-mySHT/blob/master/README.md)
 - 'WW-my3DP' - 3D-Print Projekte - [Zeigen ...](https://github.com/wolwin/WW-my3DP/blob/master/README.md)
 
 ## Disclaimer
