@@ -19,7 +19,7 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
 <br><br>
 
 #### Gerber-Dateien
-[Download ...](./bin/Gerber_HB-UNI-Sens-X_1.1.zip)
+[Download ...](./bin/Gerber_HB-UNI-Sens-X_2.2.zip)
 
 #### Schaltplan
 [Zeigen ...](./bin/HB-UNI-Sens-X_2.2.pdf)
