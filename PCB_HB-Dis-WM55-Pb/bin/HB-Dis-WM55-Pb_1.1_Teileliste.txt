@@ -1,0 +1,43 @@
+============================
+HB-Dis-WM55-Pb - Version 1.1
+============================
+
+Name	Beschreibung
+------------------------------------------
+U1      Arduino Pro Mini V3 - 3.3V
+CC1101  CC1101 Module
+S1      Pushbutton - Mikroschalter 6x6x6 mm - 2.5 
+
+Optional - Spannungsstabilisierung
+----------------------------------
+C3      Electrolytic Capacitor 1uF
+
+Optional - LED Anzeige
+----------------------
+D1      LED - 3mm
+R1      Resistor 1.5k
+1 x     2-fach Pinheader (J1)
+
+Analogschalter
+--------------
+U2      74HC4066
+R4      Resistor 100k
+R5      Resistor 100k
+
+Spannungsversorgung für 4,5V
+----------------------------
+LDO     Voltage Regulator MCP1702
+C1      Ceramic Capacitor 1uF
+C2      Ceramic Capacitor 1uF
+
+Optional - Spannungsüberwachung
+-------------------------------
+C4      Ceramic Capacitor 100nF
+R3      Resistor 470k
+R2      Resistor 100k
+
+Zubehör
+-------
+Je nach Bedarf und Ausstattung des Boards
+...
+4 x     Befestigungsschrauben 2,2 x 6,5 oder 2,2 x 9,9 (optional)

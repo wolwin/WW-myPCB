@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Sens-X' oder 'HB-UNI-Mini-X'. Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.
+Sensorplatine für GARDENA 118x Geräte zum Anschluß an ['HB-UNI-Sens-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Sens-X/README.md) oder ['HB-UNI-Mini-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Mini-X/README.md). Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.
 
 #### Platine
 - Version: 1.6
@@ -41,7 +41,7 @@ Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Sens-X' oder 'H
 - Anschluß-Konfiguration
   - für den Anschluß von GARDENA 118x Geräten bleiben die Jumper J1 und J2 offen (default)
   - wenn ein (potentialfreier) Schalter - statt eines GARDENA 118x Gerätes - angeschlossen werden soll, wird der jeweilige Jumper J1/J2 gesetzt
-  - detailierte Konfigurationsmöglichkeiten siehe hier:
+  - detaillierte Konfigurationsmöglichkeiten siehe hier:
     - Projekt 'SHP_HB-SCI-4-O-Gar118x' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB-SCI-4-O-Gar118x/README.md)
 <br><br>
 - Programmierung des 'ATtiny24a' - INO-File siehe hier:
