@@ -10,7 +10,7 @@ der unterschiedlichen _<b>P</b>rinted <b>C</b>ircuit <b>B</b>oard_ Projekte:
 | [HB‑UNI‑Mini‑X‑AddOn](./PCB_HB-UNI-Mini-X-AddOn/README.md "Zeigen ...") | AddOn Platine für 'HB-UNI-Mini-X' (THT-Format) |
 | [HB‑UNI‑Sens‑X](./PCB_HB-UNI-Sens-X/README.md "Zeigen ...") | Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten (THT-Format) |
 | [Sens‑Gar‑118x](./PCB_Sens-Gar-118x/README.md "Zeigen ...") | Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Mini-X' oder 'HB-UNI-Sens-X' (THT-Format) |
-| [HB‑Dis‑WM55‑Pb](./PCB_HB-Dis-WM55-Pb/README.md "Zeigen ...") | Platine für die Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige Push-Buttons (THT-Format) |
+| [HB‑Dis‑WM55‑Pb](./PCB_HB-Dis-WM55-Pb/README.md "Zeigen ...") | Platine für die Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten (THT-Format) |
 
 ## Andere Übersichten
 - 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)

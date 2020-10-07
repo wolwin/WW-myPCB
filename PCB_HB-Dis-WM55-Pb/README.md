@@ -4,10 +4,10 @@
 
 #### Beschreibung
 
-Platine für die Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige Push-Buttons. Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.
+Platine für die Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten. Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.
 
 #### Platine
-- Version 1.0 - für Asksin++ Aufsatzplatine ['HB-UNI-Mini-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Mini-X/README.md) oder ['HB-UNI-Mini'](https://github.com/ronnythomas/HB-Mini)
+- Version 1.0 - für 'Asksin++'' Aufsatzplatine ['HB-UNI-Mini-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Mini-X/README.md) oder ['HB-UNI-Mini'](https://github.com/ronnythomas/HB-Mini)
   - Maße: 31 x 39 mm
   - Oberseite:
     <br><br>
@@ -17,7 +17,7 @@ Platine für die Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur 
     <br><br>
     ![WW-myPCB - HB-Dis-WM55-Pb - 1.0 - Bottom](./img/PCB_HB-Dis-WM55-Pb_1.0_Bottom.jpg "HB-Dis-WM55-Pb - 1.0 - Unterseite")
     <br><br>
-- Version 1.1 - mit integriertem Asksin++ Modul
+- Version 1.1 - mit integriertem 'Asksin++'' Modul
   - Maße: 40 x 39 mm
   - Oberseite:
     <br><br>
@@ -29,9 +29,9 @@ Platine für die Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur 
 <br><br>
 
 #### Gerber-Dateien
-[Download HB-Dis-WM55-Pb - Version 1.0 ...](./bin/Gerber_HB-Dis-WM55-Pb_1.0.zip)
+[Download 'HB-Dis-WM55-Pb - Version 1.0' ...](./bin/Gerber_HB-Dis-WM55-Pb_1.0.zip)
 <br>
-[Download HB-Dis-WM55-Pb - Version 1.1 ...](./bin/Gerber_HB-Dis-WM55-Pb_1.1.zip)
+[Download 'HB-Dis-WM55-Pb - Version 1.1' ...](./bin/Gerber_HB-Dis-WM55-Pb_1.1.zip)
 
 #### Schaltplan
 [Zeigen 'HB-Dis-WM55-Pb - 1.0' ...](./bin/HB-Dis-WM55-Pb_1.0.pdf)
@@ -60,6 +60,6 @@ Platine für die Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur 
 ![WW-myPCB - HB-Dis-WM55-Pb](./img/PCB_HB-Dis-WM55-Pb_1.1.jpg "HB-Dis-WM55-Pb 1.1")
 
 #### Historie
-- 2020-10-02 - Erstveröffentlichung
+- 2020-10-07 - Erstveröffentlichung
   - Version 1.0 - 09-2020
   - Version 1.1 - 09-2020
