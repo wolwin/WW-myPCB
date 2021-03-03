@@ -31,7 +31,9 @@ Universielle 'AskSin++' Mini-Platine im THT-Format. Es sind alle Ports des 'Ardu
 - Bestückung der Platine entsprechend der Teileliste:
   - Zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten - Funktionstest vor dem Einlöten durchführen) und zuletzt das Sendemodul CC1101.
   - In der Regel wird die Platine mit zwei Stiftleisten von oben auf den Arduino gesetzt (vor dem Zusammenlöten darauf achten, daß der Reset-Knopf des Arduino nicht gedrückt wird und keine Verbindungskontakte über die Bauteilelötung erfolgt) - auf die Platine kommt dann wiederum das Sendemodul ( => Variante 1).
-    - das Sendemodul CC1101 wird über eine Stiftleiste oder eine Sockelleiste oberhalb angeordnet
+    - das Sendemodul CC1101 wird über eine Stiftleiste oder eine Sockelleiste oberhalb angeordnet - dabei gibt es zwei Möglichkeiten:
+      - kompakt: Sendemodul C1101 liegt über dem Platinenträger / 'Arduino Pro Mini' (Antennenfuß im Bereich des AVR)
+      - abseits (default): Sendemodul C1101 komplett außerhalb des Platinenträgers
     - alternativ kann das Sendemodul auch gedreht (mit der Rückseite nach oben) direkt auf die Trägerplatine gelötet werden - dabei ragt es seitlich über den Träger hinaus
   - Es ist auch möglich den Arduino von oben auf die Platine zu setzen - dabei werden dann S1, D1 und J1 von unten auf die Platine gelötet ( => Variante 2).
     - auch hier wird das Sendemodul CC1101 wie in der Variante 1 verbaut
@@ -62,18 +64,24 @@ Universielle 'AskSin++' Mini-Platine im THT-Format. Es sind alle Ports des 'Ardu
       - mit 3 AA Batterien (=4.8V) <= 7uA
 
 #### Bilder
-- Übersicht - Variante 1 (default)<br><br>
+- Übersicht - Variante 1 - Sende-Modul kompakt angeordnet<br><br>
 ![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_01.jpg "HB-UNI-Mini-X - Variante 1")
 ![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_02.jpg "HB-UNI-Mini-X - Variante 1")
 ![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_03.jpg "HB-UNI-Mini-X - Variante 1")
 ![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_04.jpg "HB-UNI-Mini-X - Variante 1")
 
-- Übersicht - Variante 2<br><br>
-![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_01.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_02.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_03.jpg "HB-UNI-Mini-X - Variante 1")
-![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_04.jpg "HB-UNI-Mini-X - Variante 1")
+- Übersicht - Variante 1 - Sende-Modul abseits angeordnet (Default)<br><br>
+![WW-myPCB - HB-UNI-Mini-X - Variante 3](./img/PCB_HB-UNI-Mini-X_3_01.jpg "HB-UNI-Mini-X - Variante 3")
+![WW-myPCB - HB-UNI-Mini-X - Variante 3](./img/PCB_HB-UNI-Mini-X_3_02.jpg "HB-UNI-Mini-X - Variante 3")
+
+- Übersicht - Variante 2 - Sende-Modul kompakt angeordnet<br><br>
+![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_01.jpg "HB-UNI-Mini-X - Variante 2")
+![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_02.jpg "HB-UNI-Mini-X - Variante 2")
+![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_03.jpg "HB-UNI-Mini-X - Variante 2")
+![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_04.jpg "HB-UNI-Mini-X - Variante 2")
+
 
 #### Historie
+- 2021-03-03 - Erläuterung Anordnung Sendemodul C1101
 - 2020-01-10 - Erstveröffentlichung
   - Version 1.0 - 12-2019
