@@ -1,0 +1,35 @@
+====================================
+WM55_HM-MOD-Re-8_B4-L8 - Version 1.1
+====================================
+
+Name	Beschreibung
+------------------------------------------
+1x Modul HM-MOD-RE-8 (fertig aufgebaut und getestet)
+
+Pushbutton
+----------
+4x      S1...S4 - Mikrotaster 6x6x5 mm - Raster 2.5
+
+Siehe auch:
+Youmile 100er-Pack 6x6x5 mm Miniatur-Mikro-Taster-Tastschalter Qualitätsschalter SPST Miniature/Mini/Micro/Small PCB
+https://www.amazon.de/gp/product/B07Q1BXV7T/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1
+
+LED (je nach LED-Farbe)
+-----------------------
+4x      LED1...LED4 - 3mm (rot)
+4x      LED5...LED8 - 3mm (grün)
+
+Widerstände (je nach LED-Farbe)
+-------------------------------
+4x      R1...R4 - Resistor 470 Ohm
+4x      R5...R8 - Resistor 220 Ohm
+
+Siehe auch:
+LED-Vorwiderstandsrechner
+https://www.elektronik-kompendium.de/sites/bau/1109111.htm
+
+Zubehör
+-------
+Je nach Bedarf und Ausstattung des Boards
+...
+2 x     Befestigungsschrauben 2,2 x 6,5 (optional)

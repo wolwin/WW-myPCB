@@ -1,0 +1,27 @@
+====================================
+WM55_HM-MOD-Re-8_L8 - Version 1.1
+====================================
+
+Name	Beschreibung
+------------------------------------------
+1x Modul HM-MOD-RE-8 (fertig aufgebaut und getestet)
+
+LED (je nach LED-Farbe)
+-----------------------
+4x      LED1...LED4 - 3mm (rot)
+4x      LED5...LED8 - 3mm (grün)
+
+Widerstände (je nach LED-Farbe)
+-------------------------------
+4x      R1...R4 - Resistor 470 Ohm
+4x      R5...R8 - Resistor 220 Ohm
+
+Siehe auch:
+LED-Vorwiderstandsrechner
+https://www.elektronik-kompendium.de/sites/bau/1109111.htm
+
+Zubehör
+-------
+Je nach Bedarf und Ausstattung des Boards
+...
+2 x     Befestigungsschrauben 2,2 x 6,5 (optional)
