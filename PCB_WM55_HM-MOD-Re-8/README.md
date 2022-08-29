@@ -70,7 +70,7 @@ Drei Platinen für den Einbau eines Homematic 8-Kanal-Empfangsmoduls 'HM-MOD-Re-
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste je nach Platine.
 - Detaillierte Konfigurationsmöglichkeiten siehe hier:
-    - Projekt 'SHP_WM55_HM-MOD-Re-8' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_WM55_HM-MOD-Re-8/README.md)
+    - Projekt 'SHP_HM-WM55_HM-MOD-Re-8' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
 
 #### Bilder
 - Übersicht - 'WM55_HM-MOD-Re-8_B4-L8' <br><br>
