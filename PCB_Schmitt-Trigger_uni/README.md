@@ -19,15 +19,15 @@ Oftmals liefern Breakout-Sensor Platinen unpräzise bzw. 'schwingende' Schaltzus
 <br><br>
 
 #### Gerber-Dateien
-[Download 'Schmitt-Trigger uni' ...](./bin/Gerber_WM55_HM-MOD-Re-8_B4-L8_1.1.zip)
+[Download 'Schmitt-Trigger uni' ...](./bin/Gerber_PCB_Schmitt-Trigger_74HC14_uni_1.0.zip)
 
 #### Schaltplan
-[Zeigen 'Schmitt-Trigger uni' ...](./bin/WM55_HM-MOD-Re-8_B4-L8_1.1.pdf)
+[Zeigen 'Schmitt-Trigger uni' ...](./bin/Schmitt-Trigger_74HC14_uni - 1.0.pdf)
 <br>
-[Zeigen 'Schmitt-Trigger uni - Verdrahtung' ...](./bin/WM55_HM-MOD-Re-8_B4-L8_1.1_Verdrahtung.pdf)
+[Zeigen 'Schmitt-Trigger uni - Verdrahtung' ...](./bin/Schmitt-Trigger_74HC14_uni - 1.0 -_Verdrahtung.pdf)
 
 #### Teileliste
-[Zeigen 'Schmitt-Trigger uni - Teileliste' ...](./bin/WM55_HM-MOD-Re-8_B4-L8_1.1_Teileliste.txt)
+[Zeigen 'Schmitt-Trigger uni - Teileliste' ...](./bin/Schmitt-Trigger_74HC14_uni_Teileliste.txt)
 
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste.
