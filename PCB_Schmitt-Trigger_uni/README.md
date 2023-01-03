@@ -24,7 +24,7 @@ Oftmals liefern Breakout-Sensor Platinen unpräzise bzw. 'schwingende' Schaltzus
 #### Schaltplan
 [Zeigen 'Schmitt-Trigger uni' ...](./bin/Schmitt-Trigger_74HC14_uni - 1.0.pdf)
 <br>
-[Zeigen 'Schmitt-Trigger uni - Verdrahtung' ...](./bin/Schmitt-Trigger_74HC14_uni - 1.0 -_Verdrahtung.pdf)
+[Zeigen 'Schmitt-Trigger uni - Verdrahtung' ...](./bin/Schmitt-Trigger_74HC14_uni - 1.0 - Verdrahtung.pdf)
 
 #### Teileliste
 [Zeigen 'Schmitt-Trigger uni - Teileliste' ...](./bin/Schmitt-Trigger_74HC14_uni_Teileliste.txt)
