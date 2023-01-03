@@ -12,6 +12,7 @@ der unterschiedlichen <b>_P_</b>rinted <b>_C_</b>ircuit <b>_B_</b>oard Projekte:
  | [Sens‑Gar‑118x](./PCB_Sens-Gar-118x/README.md "Zeigen ...") | Sensorplatine für GARDENA 118x Geräte zum Anschluß an 'HB-UNI-Mini-X' oder 'HB-UNI-Sens-X' (THT-Format) |
  | [HB‑Dis‑WM55‑Pb](./PCB_HB-Dis-WM55-Pb/README.md "Zeigen ...") | Platine für die Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten (THT-Format) |
  | [WM55_HM-MOD-Re-8](./PCB_WM55_HM-MOD-Re-8/README.md "Zeigen ...") | Platinen für den Einbau eines Homematic 8-Kanal-Empfangsmoduls 'HM-MOD-Re-8' in ein WM55-Gehäuse zur Integration in Schalterserien unterschiedlicher Hersteller (THT-Format) |
+ | [Schmitt-Trigger_uni](./PCB_Schmitt-Trigger_uni/README.md "Zeigen ...") | Platine mit einzelnem 'Schmitt-Trigger' für Breakout-Sensor Platinen (THT-Format) |
 
 ## Andere Übersichten
 - 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)

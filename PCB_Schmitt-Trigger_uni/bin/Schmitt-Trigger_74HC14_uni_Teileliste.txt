@@ -1,0 +1,20 @@
+========================================
+Schmitt-Trigger_74HC14_uni - Version 1.0
+========================================
+
+Name	Beschreibung
+------------------------------------------
+
+IC
+-----------------------
+U1      74HC14
+
+Kondensator
+-------------------------------
+C1      Ceramic Capacitor 100 nF
+
+Zubehör
+-------
+Je nach Bedarf und Ausstattung des Boards
+...
+2 x     4-fach Pinheader oder 4-fach JST-XH
