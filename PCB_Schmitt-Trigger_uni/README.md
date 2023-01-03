@@ -37,7 +37,7 @@ Oftmals liefern Breakout-Sensor Platinen unpräzise bzw. 'schwingende' Schaltzus
 
 #### Bilder
 - Übersicht - 'Schmitt-Trigger uni' <br><br>
-![WW-myPCB - Schmitt-Trigger uni](./img/PCB_Schmitt-Trigger 74HC14_1.jpg "WM55_HM-MOD-Re-8_B4-L8")
+![WW-myPCB - Schmitt-Trigger uni](./img/PCB_Schmitt-Trigger_74HC14_1.jpg "WM55_HM-MOD-Re-8_B4-L8")
 
 
 #### Historie
