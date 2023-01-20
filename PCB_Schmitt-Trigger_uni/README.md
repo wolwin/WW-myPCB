@@ -33,7 +33,7 @@ Oftmals liefern Breakout-Sensor Platinen unpräzise bzw. 'schwingende' Schaltzus
 #### Aufbau
 - Bestückung der Platine entsprechend der Teileliste.
 - Detaillierte Einsatzmöglichkeiten siehe hier:
-    - Projekt 'xxxxx' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
+    - Projekt 'Homematic Energiezähler für Gas, Wasser und Strom' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_EZ_GWS/README.md)
 
 #### Bilder
 - Übersicht - 'Schmitt-Trigger uni' <br><br>
