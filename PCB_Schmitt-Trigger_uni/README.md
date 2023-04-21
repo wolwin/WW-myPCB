@@ -1,6 +1,6 @@
 # WW-myPCB - 'Schmitt-Trigger' uni
 
-[Zurück zur Übersicht ... ](../README.md)
+[Zurück zur Übersicht ...](../README.md)
 
 ### Beschreibung
 Oftmals liefern Breakout-Sensor Platinen unpräzise bzw. 'schwingende' Schaltzustände. Mit Hilfe eines 'Schmitt-Triggers' können diese Impulse in klar definierte Rechteck-Impulse umgewandelt werden: der 'Schmitt-Trigger' vergleicht zwei Spannungen und liefert je nach Eingangspegel und Schaltschwelle, einen klar definierten Ausgangszustand. Damit wird aus einem undefinierten Eingangssignal ein definiertes Ausgangssignal. Da der '74HC14' ein invertierender 'Schmitt-Trigger' ist, wird das Ausgangssignal auch noch umgedreht, sodaß aus einem 'High/Low' Eingangsimpuls ein 'Low/High' Ausgangsimpuls wird.

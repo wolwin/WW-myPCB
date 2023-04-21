@@ -1,6 +1,6 @@
 # WW-myPCB - Sens-Gar-118x
 
-[Zurück zur Übersicht ... ](../README.md)
+[Zurück zur Übersicht ...](../README.md)
 
 ### Beschreibung
 Sensorplatine für GARDENA 118x Geräte zum Anschluß an ['HB-UNI-Sens-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Sens-X/README.md) oder ['HB-UNI-Mini-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Mini-X/README.md). Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.
