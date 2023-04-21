@@ -1,6 +1,6 @@
 # WW-myPCB - HB-UNI-Sens-X
 
-[Zurück zur Übersicht ...](../README.md)
+[Zurück zur Übersicht ... ](../README.md)
 
 ### Beschreibung
 Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten im THT-Format. Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.

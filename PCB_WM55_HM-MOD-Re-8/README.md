@@ -1,6 +1,6 @@
 # WW-myPCB - WM55_HM-MOD-Re-8
 
-[Zurück zur Übersicht ...](../README.md)
+[Zurück zur Übersicht ... ](../README.md)
 
 ### Beschreibung
 Drei Platinen für den Einbau eines Homematic 8-Kanal-Empfangsmoduls 'HM-MOD-Re-8' in ein WM55-Gehäuse zur Integration in Schalterserien unterschiedlicher Hersteller. Die Platinen bilden die Funktion des 'HM-MOD-Re-8' Moduls mit 'vier Tasten und acht LEDs', mit 'acht Tasten und acht LEDs' und mit 'acht LEDs' ab.
