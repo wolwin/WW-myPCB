@@ -2,11 +2,10 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigurationsmöglichkeiten im THT-Format. Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.
 
-#### Platine
+### Platine
 - Version: 2.2
 - Maße: 60 x 35 mm
 - Oberseite:
@@ -18,16 +17,16 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
 ![WW-myPCB - HB-UNI-Sens-X - Bottom](./img/PCB_HB-UNI-Sens-X_2.2_Bottom.jpg "HB-UNI-Sens-X - Bottom")
 <br><br>
 
-#### Gerber-Dateien
+### Gerber-Dateien
 [Download ...](./bin/Gerber_HB-UNI-Sens-X_2.2.zip)
 
-#### Schaltplan
+### Schaltplan
 [Zeigen ...](./bin/HB-UNI-Sens-X_2.2.pdf)
 
-#### Teileliste
+### Teileliste
 [Zeigen ...](./bin/HB-UNI-Sens-X_2.2_Teileliste.txt)
 
-#### Aufbau
+### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
   - Zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten - Funktionstest vor dem Einlöten durchführen) und zuletzt das Sendemodul CC1101 - bei Bedarf können Arduino und Sendemodul gesockelt werden.
   - Jumper J2 und J3 in Richtung 'I2C' nach 'oben' setzen (oder Lötbrücke).
@@ -49,7 +48,7 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
     - Bestückung mit R8
   - Anschluß von I2C Komponenten, die Pullup Widerstände benötigen
     - Bestückung mit R5, R6 und Jumper J4 (gesetzt)
-  - Spannungsüberwachung per INO-Script
+  - Spannungsüberwachung per INO-Skript
     - Bestückung mit C4, R2 und R3
     - Details dazu auf der 'Github TomMajor' Side - [Zeigen ...](https://github.com/TomMajor/SmartHome/tree/master/HB-UNI-Sensor1#messung-der-batteriespannung)
   - GND-Schaltung (An/Aus) von I2C und / oder 1-Wire Komponneten
@@ -64,7 +63,7 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
   - Software
     - Aufspielen des Bootloaders und Setzen der Fuse-Bits
     - Details dazu auf der 'AskSin++' Side - [Zeigen ...](https://asksinpp.de/Grundlagen/FAQ/babbling_idiot.html#anschluss-des-isp)
-    -  Aufspielen des INO-Scripts - z.B.:
+    -  Aufspielen des INO-Skripts - z.B.:
         - Projekt 'PCB_HB-UNI-Sens-X' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB-UNI-Sens-X/README.md)
         - 'Universalsensor HB-UNI-Sensor1' von 'Github TomMajor' Side' - [Zeigen ...](https://github.com/TomMajor/SmartHome/tree/master/HB-UNI-Sensor1#universalsensor-hb-uni-sensor1)
 <br><br>
@@ -72,11 +71,11 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
   - mit 2 AA Batterien (=3.2V) ohne LDO-Regelung < 4uA
   - mit 3 AA Batterien (=4.8V) und 3.3V LDO-Regelung <= 7uA
 
-#### Bilder
+### Bilder
 - Übersicht<br><br>
 ![WW-myPCB - HB-UNI-Sens-X - Variante](./img/PCB_HB-UNI-Sens-X_01.jpg "HB-UNI-Sens-X - Variante")
 ![WW-myPCB - HB-UNI-Sens-X - Variante](./img/PCB_HB-UNI-Sens-X_02.jpg "HB-UNI-Sens-X - Variante")
 
-#### Historie
+### Historie
 - 2020-01-10 - Erstveröffentlichung
   - Version 2.2 - 12-2019

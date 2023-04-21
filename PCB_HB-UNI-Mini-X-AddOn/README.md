@@ -2,11 +2,10 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 AddOn Platine für ['HB-UNI-Mini-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Mini-X/README.md) im THT-Format. Mit 'HB-UNI-Mini-X' und dem 'HB-UNI-Mini-X-AddOn' kann die Kern-Funktionalität der ['HB-UNI-Sens-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Sens-X/README.md) Platine erreicht werden.
 
-#### Platine
+### Platine
 - Version: 1.2
 - Maße: 33 x 18 mm
 - Oberseite:
@@ -18,16 +17,16 @@ AddOn Platine für ['HB-UNI-Mini-X'](https://github.com/wolwin/WW-myPCB/blob/mas
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Bottom](./img/PCB_HB-UNI-Mini-X-AddOn_1.2_Bottom.jpg "HB-UNI-Mini-X-AddOn - Bottom")
 <br><br>
 
-#### Gerber-Dateien
+### Gerber-Dateien
 [Download ...](./bin/Gerber_HB-UNI-Mini-X-AddOn_1.2.zip)
 
-#### Schaltplan
+### Schaltplan
 [Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.2.pdf)
 
-#### Teileliste
+### Teileliste
 [Zeigen ...](./bin/HB-UNI-Mini-X-AddOn_1.2_Teileliste.txt)
 
-#### Aufbau
+### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
   - Nach der Bestückung wird die AddOn-Platine von unten auf die zwei Stiftleisten des Arduino gesetzt (siehe Zusammenbau-Variante 1 des 'HB-UNI-Mini-X') und verlötet - d.h.: die Lötseiten der beiden Platinen stehen gegeneinander (identische Pinbezeichnungen!!). Weiter ist auf ausreichenden Abstand der beiden Platinen zueinander zu achten.
   - Es ist auch möglich die Zusammenbau-Variante 2 des 'HB-UNI-Mini-X' mit dem AddOn-Modul zu versehen: dazu erfolgt die AddOn Bestückung auf der Oberseite der Platine (Achtung bei Bestückung: LDO und Mosfet sind gedreht!!).
@@ -43,18 +42,18 @@ AddOn Platine für ['HB-UNI-Mini-X'](https://github.com/wolwin/WW-myPCB/blob/mas
   - evtl. Spannungsstabilisierung auf der 'HB-UNI-Mini-X' Platine (dort: optionale Bestückung von C1)
 <br><br>
 - Optionale Komponenten = zusätzliche Bestückung:
-  - Spannungsüberwachung per INO-Script
+  - Spannungsüberwachung per INO-Skript
     - Bestückung mit C4, R2 und R3
     - Details dazu auf der 'Github TomMajor' Side - [Zeigen ...](https://github.com/TomMajor/SmartHome/tree/master/HB-UNI-Sensor1#messung-der-batteriespannung)
   - GND-Schaltung (An/Aus) z.B. von I2C-, 1-Wire- oder anderen Komponneten mit GND-Anschluß am Pin-Ausgang [GND]
     - Bestückung mit Q1
 
-#### Bilder
+### Bilder
 - Übersicht - 'HB-UNI-Mini-X-AddOn' mit 'HB-UNI-Mini-X' (Variante 1 - default)<br><br>
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Variante 1](./img/PCB_HB-UNI-Mini-X-AddOn_1_01.jpg "HB-UNI-Mini-X-AddOn - Variante 1")
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Variante 1](./img/PCB_HB-UNI-Mini-X-AddOn_1_02.jpg "HB-UNI-Mini-X-AddOn - Variante 1")
 ![WW-myPCB - HB-UNI-Mini-X-AddOn - Variante 1](./img/PCB_HB-UNI-Mini-X-AddOn_1_03.jpg "HB-UNI-Mini-X-AddOn - Variante 1")
 
-#### Historie
+### Historie
 - 2020-01-10 - Erstveröffentlichung
   - Version 1.2 - 12-2019

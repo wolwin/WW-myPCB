@@ -2,11 +2,10 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Sensorplatine für GARDENA 118x Geräte zum Anschluß an ['HB-UNI-Sens-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Sens-X/README.md) oder ['HB-UNI-Mini-X'](https://github.com/wolwin/WW-myPCB/blob/master/PCB_HB-UNI-Mini-X/README.md). Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.
 
-#### Platine
+### Platine
 - Version: 1.6
 - Maße: 60 x 25 mm
 - Oberseite:
@@ -18,16 +17,16 @@ Sensorplatine für GARDENA 118x Geräte zum Anschluß an ['HB-UNI-Sens-X'](https
 ![WW-myPCB - Sens-Gar-118x - Bottom](./img/PCB_Sens-Gar-118x_1.6_Bottom.jpg "Sens-Gar-118x - Bottom")
 <br><br>
 
-#### Gerber-Dateien
+### Gerber-Dateien
 [Download ...](./bin/Gerber_Sens-Gar-118x_1.6.zip)
 
-#### Schaltplan
+### Schaltplan
 [Zeigen ...](./bin/Sens-Gar-118x_1.6.pdf)
 
-#### Teileliste
+### Teileliste
 [Zeigen ...](./bin/Sens-Gar-118x_1.6_Teileliste.txt)
 
-#### Aufbau
+### Aufbau
 - Bestückung der Platine entsprechend der Teileliste.
 <br><br>
 - Spannungsversorgung
@@ -51,10 +50,10 @@ Sensorplatine für GARDENA 118x Geräte zum Anschluß an ['HB-UNI-Sens-X'](https
   - mit 2 AA Batterien (=3.2V) ohne LDO-Regelung < 4uA
   - mit 3 AA Batterien (=4.8V) und 3.3V LDO-Regelung <= 6uA
 
-#### Bilder
+### Bilder
 - Übersicht - 'Sens-Gar-118x' <br><br>
 ![WW-myPCB - Sens-Gar-118x](./img/PCB_Sens-Gar-118x_01.jpg "Sens-Gar-118x")
 
-#### Historie
+### Historie
 - 2020-01-10 - Erstveröffentlichung
   - Version 1.6 - 12-2019

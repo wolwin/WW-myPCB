@@ -2,11 +2,10 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Universielle 'AskSin++' Mini-Platine im THT-Format. Es sind alle Ports des 'Arduino Pro Mini' über zwei beschriftete Port Reihen (bestückbar mit Pin-Header oder JST-XH) zugänglich. Optionale Pullup Widerstände für I2C und 1-Wire Anschluß können verbaut werden. Eine Einbau- bzw. Montagemöglichkeit kann über vier 2 mm Platinen-Löcher realisiert werden.
 
-#### Platine
+### Platine
 - Version: 1.0
 - Maße: 40 x 25 mm
 - Oberseite:
@@ -18,16 +17,16 @@ Universielle 'AskSin++' Mini-Platine im THT-Format. Es sind alle Ports des 'Ardu
 ![WW-myPCB - HB-UNI-Mini-X - Bottom](./img/PCB_HB-UNI-Mini-X_1.0_Bottom.jpg "HB-UNI-Mini-X - Bottom")
 <br><br>
 
-#### Gerber-Dateien
+### Gerber-Dateien
 [Download ...](./bin/Gerber_HB-UNI-Mini-X_1.0.zip)
 
-#### Schaltplan
+### Schaltplan
 [Zeigen ...](./bin/HB-UNI-Mini-X_1.0.pdf)
 
-#### Teileliste
+### Teileliste
 [Zeigen ...](./bin/HB-UNI-Mini-X_1.0_Teileliste.txt)
 
-#### Aufbau
+### Aufbau
 - Bestückung der Platine entsprechend der Teileliste:
   - Zuerst die diskreten Bauelemente, dann der vorbereitete 'Arduino Pro Mini' (siehe unten - Funktionstest vor dem Einlöten durchführen) und zuletzt das Sendemodul CC1101.
   - In der Regel wird die Platine mit zwei Stiftleisten von oben auf den Arduino gesetzt (vor dem Zusammenlöten darauf achten, daß der Reset-Knopf des Arduino nicht gedrückt wird und keine Verbindungskontakte über die Bauteilelötung erfolgt) - auf die Platine kommt dann wiederum das Sendemodul ( => Variante 1).
@@ -57,13 +56,13 @@ Universielle 'AskSin++' Mini-Platine im THT-Format. Es sind alle Ports des 'Ardu
     - Software
       - Aufspielen des Bootloaders und Setzen der Fuse-Bits
       - Details dazu auf der 'AskSin++' Side - [Zeigen ...](https://asksinpp.de/Grundlagen/FAQ/babbling_idiot.html#anschluss-des-isp)
-      -  Aufspielen des INO-Scripts und Test
+      -  Aufspielen des INO-Skripts und Test
     <br><br>
     - Gemessener Ruhestrom ohne externe Komponenten
       - mit 2 AA Batterien (=3.2V) < 7uA
       - mit 3 AA Batterien (=4.8V) <= 7uA
 
-#### Bilder
+### Bilder
 - Übersicht - Variante 1 - Sende-Modul kompakt angeordnet<br><br>
 ![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_01.jpg "HB-UNI-Mini-X - Variante 1")
 ![WW-myPCB - HB-UNI-Mini-X - Variante 1](./img/PCB_HB-UNI-Mini-X_1_02.jpg "HB-UNI-Mini-X - Variante 1")
@@ -80,8 +79,7 @@ Universielle 'AskSin++' Mini-Platine im THT-Format. Es sind alle Ports des 'Ardu
 ![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_03.jpg "HB-UNI-Mini-X - Variante 2")
 ![WW-myPCB - HB-UNI-Mini-X - Variante 2](./img/PCB_HB-UNI-Mini-X_2_04.jpg "HB-UNI-Mini-X - Variante 2")
 
-
-#### Historie
+### Historie
 - 2021-03-03 - Erläuterung Anordnung Sendemodul C1101
 - 2020-01-10 - Erstveröffentlichung
   - Version 1.0 - 12-2019
