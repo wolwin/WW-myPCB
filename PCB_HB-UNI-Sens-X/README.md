@@ -45,7 +45,7 @@ Universielle 'AskSin++' Platine mit verschiedenen Sensor Anschluß- und Konfigur
   - Status-LED
     - Bestückung mit D1, R1 und Jumper J5 - um Strom zu sparen, kann der Jumper nach dem 'Anlernen' für die 'Produktion' entfernt werden.
   - Anschluß von 1-Wire Komponenten
-    - Bestückung mit R8
+    - Bestückung mit R7
   - Anschluß von I2C Komponenten, die Pullup Widerstände benötigen
     - Bestückung mit R5, R6 und Jumper J4 (gesetzt)
   - Spannungsüberwachung per INO-Skript
