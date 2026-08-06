@@ -1,0 +1,100 @@
+===========================
+HB-L2R-THT_01 - Version 1.0
+===========================
+
+- Spannungsversorgung VIN_5-12V Konfiguration
+  -------------------------------------------
+
+  J1        Terminal Block 1x02_P5.00mm Horizontal
+
+  - Spannungsversorgung VIN_5-2V für 5V
+    -----------------------------------
+    Jumper J2 = '1-2' oder Lötbrücke
+    U1        -
+    D3        Diode 1N5819
+    C1        Ceramic Capacitor 100nF
+    C2        Electrolytic Capacitor 47uF
+
+  oder
+
+  - Spannungsversorgung VIN_5-2V für 7-12V
+    --------------------------------------
+    Jumper J2 = '2-3' oder Lötbrücke
+    U1        MP1584EN Module - 5V (fest)
+    D3        -
+    C1        Ceramic Capacitor 100nF
+    C2        Electrolytic Capacitor 47uF
+
+- Spannungsversorgung MCU
+  -----------------------
+  U2        Voltage Regulator MCP1702 3,3V TO
+  C3        Ceramic Capacitor 1uF
+  C4        Ceramic Capacitor 1uF
+  C5        Electrolytic Capacitor 1uF
+
+- MCU Aufbau für Asksin
+  ---------------------
+  U3        Arduino Pro Mini ATMega328P - 8 MHz 3.3V
+  SW1       Pushbutton - Mikroschalter 6x6x6 mm - 2.5 
+  J6        ISP- Anschluss 2 x 3-fach Pinheader
+
+  - optional Asksin LED Anzeige:
+  D2        LED 3mm
+  R1        Resistor 1.5k
+  J2        2-fach Pinheader oder Lötbrücke
+
+- MCU Sendeaufbau für Asksin
+  --------------------------
+  U4        CC1101 Module 868 Mhz
+  C6        Ceramic Capacitor 1uF
+  C7        Ceramic Capacitor 100nF
+  R2        Resistor 10k
+  - Siftleiste 2,0mm für CC1101 Modul
+  - Draht-Antenne 8,3 cm
+
+- Bistabile Relais Stufe 1
+  ------------------------
+  J3        Terminal Block 1x03_P5.00mm Horizontal
+  K1        Hongfa HFD2_005-S-L2-D 
+            (Non-Latching Relay PCB Mount, 5V dc Coil, 3 A Subminiature DIP Relay)
+            optional: IC-Fassung Präzision 16-polig
+  C11       Ceramic Capacitor 100nF
+  D11, D12  Diode 1N4007
+  D13       P6KE15A (bei VIN_0=12V) oder P6KE6.8A (bei VIN_0=5V)
+  Q11, Q12  N-MOSFET BS170
+  R11, R13  Resistor 100 Ohm
+  R12, R14  Resistor 100k
+
+  - optional für Debug SET Impuls LED - nicht notwendig - kann entfallen: 
+  D14       LED 3mm
+  R15       Resistor 1k
+  J11       2-fach Pinheader oder Lötbrücke 
+
+  - optional Eingangsspannung VIN_0 = VIN_1
+  J12       2-fach Pinheader oder Lötbrücke 
+
+- Bistabile Relais Stufe 2
+  ------------------------
+  J4        Terminal Block 1x03_P5.00mm Horizontal
+  K2        Hongfa HFD2_005-S-L2-D 
+            (Non-Latching Relay PCB Mount, 5V dc Coil, 3 A Subminiature DIP Relay)
+            optional: IC-Fassung Präzision 16-polig
+  C21       Ceramic Capacitor 100nF
+  D21, D22  Diode 1N4007
+  D23       P6KE15A (bei VIN_0=12V) oder P6KE6.8A (bei VIN_0=5V)
+  Q21, Q22  N-MOSFET BS170
+  R21, R23  Resistor 100 Ohm
+  R22, R24  Resistor 100k
+
+  - optional für Debug SET Impuls LED - nicht notwendig - kann entfallen: 
+  D24       LED 3mm
+  R25       Resistor 1k
+  J21       2-fach Pinheader oder Lötbrücke 
+
+  - optional Eingangsspannung VIN_0 = VIN_2
+  J22       2-fach Pinheader oder Lötbrücke 
+
+- Zubehör
+  -------
+  6 x       Jumper für Pinheader
+  4 x       Befestigungsschrauben 2,2 x 6,5 oder 2,2 x 9,9 (optional)
